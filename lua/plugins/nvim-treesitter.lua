@@ -4,6 +4,7 @@ require("nvim-treesitter").install({
   "json",
   "yaml",
   "markdown",
+  "markdown_inline",
   "javascript",
   "vue",
   "pug",

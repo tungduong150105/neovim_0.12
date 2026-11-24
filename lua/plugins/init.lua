@@ -17,6 +17,7 @@ vim.pack.add({
   { src = "http://github.com/lewis6991/gitsigns.nvim" },
   { src = "https://github.com/vim-test/vim-test" },
   { src = "https://github.com/ludovicchabant/vim-gutentags" },
+  { src = "https://github.com/MeanderingProgrammer/render-markdown.nvim" },
 })
 
 require("plugins.snacks")
@@ -35,3 +36,4 @@ require("plugins.mini-diff")
 require("plugins.gitsigns")
 require("plugins.vim-test")
 require("plugins.gutentags")
+require("plugins.render-markdown")

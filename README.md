@@ -39,7 +39,7 @@ after/lsp/lua_ls.lua     lua_ls settings (runtime + all vim.pack plugins as libr
 |---|---|
 | [solarized.nvim (fork)](https://github.com/tungduong150105/solarized.nvim) | Colorscheme, light variant |
 | [snacks.nvim](https://github.com/folke/snacks.nvim) | Picker, explorer, indent guides, notifier, input, lazygit, terminal |
-| [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) | Highlighting / indent for lua, ruby, json, yaml, markdown, javascript, vue, pug, css |
+| [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) | Highlighting / indent for lua, ruby, json, yaml, markdown, markdown_inline, javascript, vue, pug, css |
 | [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) | LSP configs (`lua_ls`) |
 | [blink.cmp](https://github.com/saghen/blink.cmp) / [blink.pairs](https://github.com/saghen/blink.pairs) | Completion / auto pairs |
 | [copilot.lua](https://github.com/zbirenbaum/copilot.lua) | Inline AI suggestions |
@@ -50,6 +50,7 @@ after/lsp/lua_ls.lua     lua_ls settings (runtime + all vim.pack plugins as libr
 | [mini.icons](https://github.com/nvim-mini/mini.icons) | Icons |
 | [vim-test](https://github.com/vim-test/vim-test) | Run tests (in a snacks terminal) |
 | [vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) | Ruby ctags generation |
+| [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) | Render markdown in the buffer (headings, lists, tables, code blocks) |
 
 ### Colorscheme fork
 
