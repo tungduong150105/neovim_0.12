@@ -6,7 +6,7 @@ require("snacks").setup({
     sources = {
       files = { hidden = true },
       grep = { hidden = true },
-      explorer = { hidden = true },
+      explorer = { hidden = true, ignored = true },
     },
     layouts = {
       default = { layout = { width = 0.9, height = 0.9 } },
